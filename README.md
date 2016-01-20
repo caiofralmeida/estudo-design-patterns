@@ -7,6 +7,6 @@
 - [x] Observer
 - [ ] Memento
 - [ ] Factory
-- [ ] Builder
+- [x] Builder
 - [ ] Visitor
 - [x] State
