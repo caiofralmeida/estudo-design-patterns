@@ -5,8 +5,8 @@
 - [ ] Interpreter
 - [ ] Strategy
 - [x] Observer
+- [ ] Memento
 - [ ] Factory
 - [ ] Builder
 - [ ] Visitor
-- [ ] Memento
 - [x] State
