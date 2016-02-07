@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @author Caio Almeida <caioamd@hotmail.com>
+ */
 class MinimoCaracteres extends SenhaForteChain
 {
     const MINIMO = 8;

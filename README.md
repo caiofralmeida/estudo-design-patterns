@@ -3,6 +3,7 @@
 - [x] ChainOfResponsability
 - [ ] TemplateMethod
 - [ ] Interpreter
+- [x] Decorator
 - [ ] Strategy
 - [x] Observer
 - [ ] Memento

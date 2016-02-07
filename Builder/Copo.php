@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @author Caio Almeida <caioamd@hotmail.com>
+ */
 class Copo implements Tipo
 {
     public function getValor()

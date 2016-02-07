@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @author Caio Almeida <caioamd@hotmail.com>
+ */
 class RegistradorPonto implements Subject
 {
     protected $observers = [];

@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @author Caio Almeida <caioamd@hotmail.com>
+ */
 class CaracteresEspeciais extends SenhaForteChain
 {
     public function isValido($senha)
