@@ -1,13 +1,14 @@
 # Estudo Design Patterns
 
 - [x] ChainOfResponsability
-- [ ] TemplateMethod
+- [ ] Abstract Factory
+- [x] TemplateMethod
 - [ ] Interpreter
 - [x] Decorator
 - [ ] Strategy
 - [x] Observer
 - [ ] Memento
-- [ ] Factory
+- [x] Factory
 - [x] Builder
 - [ ] Visitor
 - [x] State
