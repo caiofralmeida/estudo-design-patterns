@@ -1,5 +1,7 @@
 <?php
 
+namespace Builder;
+
 require __DIR__ . '/../autoload.php';
 
 $maquinaSorvete = new MaquinaSorvete(new Flocos());

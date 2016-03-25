@@ -1,5 +1,7 @@
 <?php
 
+namespace Observer;
+
 /**
  * @author Caio Almeida <caioamd@hotmail.com>
  */

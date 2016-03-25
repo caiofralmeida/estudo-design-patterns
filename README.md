@@ -1,7 +1,7 @@
 # Estudo Design Patterns
 
 - [x] ChainOfResponsability
-- [ ] Abstract Factory
+- [x] AbstractFactory
 - [x] TemplateMethod
 - [ ] Interpreter
 - [x] Decorator

@@ -1,5 +1,7 @@
 <?php
 
+namespace Factory;
+
 class Telefone
 {
     protected $ddd;

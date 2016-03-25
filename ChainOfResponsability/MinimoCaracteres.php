@@ -1,5 +1,7 @@
 <?php
 
+namespace ChainOfResponsability;
+
 /**
  * @author Caio Almeida <caioamd@hotmail.com>
  */

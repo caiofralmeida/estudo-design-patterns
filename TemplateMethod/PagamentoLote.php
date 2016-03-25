@@ -1,5 +1,7 @@
 <?php
 
+namespace TemplateMethod;
+
 class PagamentoLote extends Pagamento
 {
     protected function enviarPagamento()

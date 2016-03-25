@@ -1,5 +1,7 @@
 <?php
 
+namespace State;
+
 require __DIR__ . '/../autoload.php';
 
 $pedido = new Pedido(560.70);

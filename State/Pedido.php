@@ -1,5 +1,7 @@
 <?php
 
+namespace State;
+
 class Pedido
 {
     protected $valor;

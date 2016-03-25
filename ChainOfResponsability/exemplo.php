@@ -1,5 +1,7 @@
 <?php
 
+namespace ChainOfResponsability;
+
 require __DIR__. '/../autoload.php';
 
 $senhaForte = new MinimoCaracteres();

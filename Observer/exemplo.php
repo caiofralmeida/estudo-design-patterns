@@ -1,5 +1,7 @@
 <?php
 
+namespace Observer;
+
 require __DIR__ . '/../autoload.php';
 
 $registrador = new RegistradorPonto();

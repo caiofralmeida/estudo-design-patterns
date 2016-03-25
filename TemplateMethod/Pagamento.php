@@ -1,5 +1,7 @@
 <?php
 
+namespace TemplateMethod;
+
 abstract class Pagamento
 {
     public function efetivar()

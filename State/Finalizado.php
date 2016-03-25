@@ -1,5 +1,7 @@
 <?php
 
+namespace State;
+
 class Finalizado implements Estado
 {
     public function proximo(Pedido $pedido)

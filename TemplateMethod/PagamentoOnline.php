@@ -1,5 +1,7 @@
 <?php
 
+namespace TemplateMethod;
+
 class PagamentoOnline extends Pagamento
 {
     protected function enviarPagamento()

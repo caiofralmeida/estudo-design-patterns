@@ -1,5 +1,7 @@
 <?php
 
+namespace TemplateMethod;
+
 require __DIR__ . '/../autoload.php';
 
 $pagamentoOnline = new PagamentoOnline();

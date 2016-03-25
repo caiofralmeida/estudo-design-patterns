@@ -1,5 +1,7 @@
 <?php
 
+namespace Decorator;
+
 require __DIR__ . '/../autoload.php';
 
 $vagaComum = new VagaComum('Desenvolvedor de sistemas', 'desenvolver sistemas web');
