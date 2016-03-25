@@ -4,6 +4,7 @@
 - [x] AbstractFactory
 - [x] TemplateMethod
 - [ ] Interpreter
+- [x] NullObject
 - [x] Decorator
 - [ ] Strategy
 - [x] Observer
