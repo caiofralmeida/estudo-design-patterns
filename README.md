@@ -3,6 +3,7 @@
 - [x] ChainOfResponsability
 - [x] AbstractFactory
 - [x] TemplateMethod
+- [x] FactoryMethod
 - [ ] Interpreter
 - [x] NullObject
 - [x] Decorator
